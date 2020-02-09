@@ -1,0 +1,5 @@
+2020/2/9 Meeting
+* Goal: 2 to 3 chapters
+* For March 1st have finished ch 10
+* Start doing leetcode problems: aim for 3 a week until it gets too hard
+* Later take a detour into under the hood python (cpython?)
