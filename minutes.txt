@@ -1,3 +1,6 @@
+2020/2/16 Meeting
+* No more meetins till first sunday in march - finish ch 10, advance leet code.
+
 2020/2/9 Meeting
 * Goal: 2 to 3 chapters
 * For March 1st have finished ch 10
